@@ -22,6 +22,19 @@ This document provides an overview of our simplified infrastructure. It explains
 ### 6. `sdaas-sai-code.md`
 This document provides a detailed explanation of the [Stable Diffusion for designers](https://github.com/couchrishi/sd-for-designers) repository. It covers the code structure, functionalities, and how to use it.
 
+### 7. load-testing-analysis
+The Analysis for load testing of our system is on the Google Doc provided in the link below:
+
+LINK: https://docs.google.com/document/d/1x-5cDOBaKQE699hqwwvbjmXB8K6S0EAx2GaCu6qECAA/edit?addon_store#heading=h.k1qqt0mo74zg 
+
+
+### 8. different-status-handling-for-training-pipelines
+The Doc provided in the Link below, explains the different statuses returned by vertex ai for a custom training job and  how our system reacts to them and what messages are shown to user.
+
+LINK: https://docs.google.com/document/d/1VaOxuWgkupBQiDD_D38SNCP2IYIqfQD9XaGdUpcmCa0/edit#heading=h.ioojg6syjry7
+
+
+
 ## Navigating the Repository
 
 To navigate through the repository, simply click on the file name of the document you wish to view. This will open the document in your browser. You can then scroll through the document or use the table of contents (if provided) to jump to specific sections.
