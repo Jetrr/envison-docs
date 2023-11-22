@@ -37,6 +37,15 @@ LINK: https://docs.google.com/document/d/1VaOxuWgkupBQiDD_D38SNCP2IYIqfQD9XaGdUp
 This sheet list some instances of vertex training pipelines with their total time taken,  broken down into time taken by different processes:
 https://docs.google.com/spreadsheets/d/1hR051lczgoUcFGuuYbAPq0ZCaqTQRE-BdlOuzeoZP_Y/edit#gid=0 
 
+### 10. System Architecture till 22/11/2023 architecture diagram
+  Folder Name: Exalidraw Architecture diagrams
+              contains exalidraw save file and PNG image of architecture
+  
+### 11. Payment System Flow diagrams
+  Folder Name: PaymentSystem Diagram
+                contains draw.io save file and PNG image for payment system flow charts 
+
+
 
 
 
