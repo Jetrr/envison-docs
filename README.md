@@ -30,12 +30,13 @@ LINK: https://docs.google.com/document/d/1x-5cDOBaKQE699hqwwvbjmXB8K6S0EAx2GaCu6
 
 ### 8. different-status-handling-for-training-pipelines
 The Doc provided in the Link below, explains the different statuses returned by vertex ai for a custom training job and  how our system reacts to them and what messages are shown to user.
+LINK: https://docs.google.com/document/d/1VaOxuWgkupBQiDD_D38SNCP2IYIqfQD9XaGdUpcmCa0/edit#heading=h.ioojg6syjry7
+
 
 ### 9. Time-Breakdown-Vertex-Pipeline
 This sheet list some instances of vertex training pipelines with their total time taken,  broken down into time taken by different processes:
 https://docs.google.com/spreadsheets/d/1hR051lczgoUcFGuuYbAPq0ZCaqTQRE-BdlOuzeoZP_Y/edit#gid=0 
 
-LINK: https://docs.google.com/document/d/1VaOxuWgkupBQiDD_D38SNCP2IYIqfQD9XaGdUpcmCa0/edit#heading=h.ioojg6syjry7
 
 
 
